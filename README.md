@@ -8,7 +8,7 @@ SDR101 Controller - это приложение с графическим инт
 
 Приемник DeepSDR101 работает без переделки, а вот китайские клоны SDR101 надо немного доработать, как описано [тут](https://swling.ru/2025/05/13/%D0%B4%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-deepsdr-101-clone-%D0%B4%D0%BE-%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D0%B0/) :
 
-![Иллюстрация к проекту](https://github.com/CheshirCa/SDR101_Controller/raw/master/image/SDR101_Clone_Modify.jpg)
+![Обычно достаточно перепаять один резистор](https://raw.githubusercontent.com/CheshirCa/SDR101_Controller/refs/heads/main/SDR101_Clone_Modify.jpg)
 
 ## Возможности
 
