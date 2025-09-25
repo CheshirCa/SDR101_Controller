@@ -1,0 +1,302 @@
+{
+  "preset01": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset02": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset03": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset04": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset05": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset06": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset07": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset08": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset09": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset10": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset11": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset12": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset13": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset14": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset15": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset16": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset17": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset18": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset19": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset20": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset21": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset22": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset23": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset24": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset25": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset26": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset27": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset28": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset29": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  },
+  "preset30": {
+    "station_name": "",
+    "frequency": "104400K",
+    "modulation": "FM",
+    "agc": "Средн",
+    "speaker_volume": 50,
+    "headphone_volume": 50,
+    "speaker_mute": false,
+    "headphone_mute": false
+  }
+}
